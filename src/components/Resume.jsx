@@ -8,7 +8,7 @@ function Resume() {
     {
       name: "LeetCode",
       metric: "130+ Solved",
-      desc: "Solved 200+ DSA problems across topics like Arrays, Strings, Trees, and Dynamic Programming.",
+      desc: "Solved 130+ DSA problems on LeetCode, strengthening problem-solving and algorithmic skills.",
       link: leetcode,
       color: "#ffa116"
     },

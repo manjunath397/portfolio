@@ -82,7 +82,7 @@ export const portfolioData = {
     }
   ],
   achievements: [
-    "Solved 200+ DSA problems across LeetCode, CodeChef, and GeeksforGeeks.",
+    "Solved 130+ DSA problems on LeetCode, strengthening problem-solving and algorithmic skills.",
     "Participated in competitive programming contests and coding challenges."
   ],
   certifications: [

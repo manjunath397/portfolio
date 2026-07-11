@@ -1,16 +1,63 @@
-# React + Vite
+# Developer Portfolio
+A responsive personal portfolio website built using React.js to showcase my projects, technical skills, education, experience, achievements, and certifications.
+## Live Demo
+[View Live Portfolio](https://manjunath-portfolio-rho.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Features
+- Responsive user interface
+- Project showcase
+- Technical skills and education sections
+- Resume viewing and download functionality
+- Achievements and certifications
+- Contact links for Email, Phone, LinkedIn, GitHub, and LeetCode
 
-Currently, two official plugins are available:
+## Tech Stack
+- React.js
+- JavaScript
+- CSS
+- Vite
+## Project Structure
+```text
+portfolio/
+├── public/
+├── src/
+│   ├── components/
+│   ├── data/
+│   ├── styles/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── vite.config.js
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Run Locally
 
-## React Compiler
+Clone the repository:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+git clone https://github.com/manjunath397/portfolio.git
+```
 
-## Expanding the Oxlint configuration
+Navigate to the project directory:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+## Author
+
+**Devaraju Gari Manjunath**
+
+- GitHub: [manjunath397](https://github.com/manjunath397)
+- LinkedIn: [Devaraju Gari Manjunath](https://www.linkedin.com/in/devaraju-gari-manjunath/)

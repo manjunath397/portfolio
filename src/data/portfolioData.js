@@ -75,7 +75,7 @@ export const portfolioData = {
   ],
   experience: [
     {
-      role: "Full Stack Developer Intern",
+      role: "Frontend Developer Intern",
       company: "Lineysha and Thevan Software Technologies",
       duration: "June 2025",
       description: "Developed responsive web interfaces using HTML, CSS, and JavaScript, focusing on frontend design, user interaction, and improving the overall user experience."

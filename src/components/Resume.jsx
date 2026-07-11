@@ -166,7 +166,7 @@ function Resume() {
           </h3>
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '12px 24px', fontSize: '0.9rem' }}>
             <div>
-              <p style={{ marginBottom: '6px' }}><strong style={{ color: 'var(--text-primary)' }}>Languages:</strong> <span style={{ color: 'var(--text-secondary)' }}>C, C++</span></p>
+              <p style={{ marginBottom: '6px' }}><strong style={{ color: 'var(--text-primary)' }}>Languages:</strong> <span style={{ color: 'var(--text-secondary)' }}> C++</span></p>
               <p style={{ marginBottom: '6px' }}><strong style={{ color: 'var(--text-primary)' }}>Web:</strong> <span style={{ color: 'var(--text-secondary)' }}>HTML, CSS, JavaScript, React.js</span></p>
               <p style={{ marginBottom: '6px' }}><strong style={{ color: 'var(--text-primary)' }}>Backend:</strong> <span style={{ color: 'var(--text-secondary)' }}>Node.js, Express.js</span></p>
               <p style={{ marginBottom: '6px' }}><strong style={{ color: 'var(--text-primary)' }}>Databases:</strong> <span style={{ color: 'var(--text-secondary)' }}>SQL, MongoDB</span></p>

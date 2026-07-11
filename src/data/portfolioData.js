@@ -5,7 +5,7 @@ export const portfolioData = {
     email: "manjumanjuyadav33@gmail.com",
     phone: "+91-6309775173",
     github: "https://github.com/manjunath397",
-    linkedin: "https://www.linkedin.com/in/devaraju-gari-manjunath",
+    linkedin: "https://www.linkedin.com/in/devaraju-gari-manjunath/",
     leetcode: "https://leetcode.com/u/manjunath_yadav/",
     resumeUrl: "/resume.pdf", // Loads resume.pdf from the public directory
     tagline: "Computer Science undergraduate with hands-on experience in MERN stack development and a strong foundation in Data Structures and Algorithms.",
@@ -35,7 +35,7 @@ export const portfolioData = {
     }
   ],
   skills: {
-    programming: ["C", "C++"],
+    programming: ["C++"],
     frontend: ["HTML", "CSS", "JavaScript", "React.js"],
     backend: ["Node.js", "Express.js"],
     databases: ["SQL", "MongoDB"],
@@ -63,14 +63,14 @@ export const portfolioData = {
       github: "https://github.com/BugathaSindhu/Preventx_mobile_app" // Correct repository link from LaTeX resume
     },
     {
-      title: "Faculty Management System",
-      techStack: ["HTML", "CSS", "JavaScript", "Python"],
-      description: "A web-based application for managing and organizing faculty records.",
+      title: "Developer Portfolio ",
+      techStack: ["React.js", "CSS", "JavaScript"],
+      description: "A responsive web application designed to showcase technical skills, projects, education, experience, and achievements through a modern and interactive interface.",
       contributions: [
-        "Developed a web-based application to manage and organize faculty records.",
-        "Built an interactive frontend and integrated Python-based backend functionality for faculty data management."
+        "Developed a responsive personal portfolio using React.js to showcase projects, technical skills, education, experience, and achievements.",
+        "Built reusable React components and a responsive user interface with smooth navigation and interactive elements."
       ],
-      github: null // No link available in resume
+      github: "https://github.com/manjunath397/portfolio" // No link available in resume
     }
   ],
   experience: [
@@ -78,7 +78,7 @@ export const portfolioData = {
       role: "Full Stack Developer Intern",
       company: "Lineysha and Thevan Software Technologies",
       duration: "June 2025",
-      description: "Built web modules using Python, HTML, CSS, and JavaScript, implementing backend logic and frontend integration during the web development lifecycle."
+      description: "Developed responsive web interfaces using HTML, CSS, and JavaScript, focusing on frontend design, user interaction, and improving the overall user experience."
     }
   ],
   achievements: [

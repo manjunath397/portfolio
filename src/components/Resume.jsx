@@ -16,14 +16,14 @@ function Resume() {
       name: "GeeksforGeeks",
       metric: "Practice Platform",
       desc: "Practiced standard library algorithms",
-      link: "https://www.geeksforgeeks.org/",
+      link: "https://www.geeksforgeeks.org/profile/manjumanjoby8",
       color: "#2f8d46"
     },
     {
       name: "CodeChef",
       metric: "Competitive Programming",
       desc: "Participated in regular coding contests and practice challenges.",
-      link: "https://www.codechef.com/",
+      link: "https://www.codechef.com/users/manjunath30",
       color: "#5b4636"
     }
   ];
